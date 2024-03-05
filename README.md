@@ -1,6 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)
 <h1 align="center">Hi 👋, I'm Mayuresh Mane</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" widht="400" src="https://i.pinimg.com/originals/6b/00/39/6b0039ec6d675b764f9b9c013450fbcb.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur15966&label=Profile%20views&color=0e75b6&style=flat" alt="mayur15966" /> </p>
